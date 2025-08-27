@@ -1,5 +1,5 @@
 from termcolor import colored
-
+x = 5
 board = []
 for i in range(8):
     if i == 1 or i == 6:
